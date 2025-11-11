@@ -14,8 +14,9 @@ Web App Infrastructure Setup: Integrasi frontend-backend-DB di environment cloud
 DevOps | CI/CD | Jenkins | Docker | Docker Compose | Nginx | Linux Server | Git & GitHub | Node.js | MySQL | Bash Scripting
 
 🔗 Links:
+
 🌐 Medium
 https://medium.com/@abimsyaefulloh2020
 
-💻 GitHub
-https://github.com/abimsyaefulloh/
+💻 Linkedin
+https://www.linkedin.com/in/abim-syaefulloh-93a979360/
