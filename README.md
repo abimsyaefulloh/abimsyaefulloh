@@ -5,7 +5,7 @@ Saya DevOps Engineer dengan fokus pada automasi deployment, CI/CD pipeline, dan 
 Saat ini saya aktif menulis artikel tentang DevOps dan deployment pipeline di Medium, sekaligus membangun portofolio open-source project di GitHub.
 
 🚀 Active Projects:  
-Dumbmerch App  
+Dumbmerch App 
 https://abim.studentdumbways.my.id/auth
 
 Deployment Automation Pipeline: CI/CD menggunakan Jenkins, Nginx reverse proxy, dan Docker Compose.
